@@ -1,5 +1,16 @@
 # FantiaDL
 
+> ⚠️ **Maintenance Notice**
+>
+> The original repository is no longer actively maintained.
+> This fork is actively maintained and publishes bug-fix releases.
+>
+> Maintainer: @sawakage
+
+---
+
+## Introduction
+
 Download media and other data from Fantia fanclubs and posts. A session cookie must be provided with the -c/--cookie argument directly or by passing the path to a legacy Netscape cookies file. Please see the [About Session Cookies](#about-session-cookies) section.
 
 ```
