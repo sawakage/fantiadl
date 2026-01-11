@@ -101,6 +101,8 @@ https://pypi.org/project/fantiadl/
 
 Binaries are also provided for [new releases](https://github.com/bitbybyte/fantiadl/releases/latest).
 
+⚠️ **Note:** This PyPI package was published by the original author and is no longer maintained.
+
 ## Build Requirements
 
 - Python >=3.7
