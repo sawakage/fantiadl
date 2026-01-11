@@ -44,7 +44,7 @@ class FantiaDlDatabase:
         self.execute("INSERT INTO post_contents VALUES (?, ?, ?, ?, ?, ?, ?)", (id, parent_post, title, category, price, price_unit, int(time.time())))
 
     def insert_url(self, url):
-        self.execute("INSERT INTO urls VALUES (?, ?)", (url, int(time.time())))
+        self.execute("INSERT OR IGNORE INTO urls VALUES (?, ?)", (url, int(time.time())))
 
     # SELECT
 
