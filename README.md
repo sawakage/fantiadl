@@ -2,9 +2,11 @@
 
 > ⚠️ **Maintenance Notice**
 >
+> Original project by @bitbybyte:
+> https://github.com/bitbybyte/fantiadl
 > The original repository is no longer actively maintained.
-> This fork is actively maintained and publishes bug-fix releases.
->
+> This repository is an independently maintained continuation with additional bug fixes and behavior adjustments.
+> 
 > Maintainer: @sawakage
 
 ---
